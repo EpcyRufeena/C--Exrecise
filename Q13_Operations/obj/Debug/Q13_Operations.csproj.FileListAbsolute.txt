@@ -1,0 +1,5 @@
+C:\Users\INSPIRON 15 3000\Documents\Visual Studio 2012\Projects\ConsoleApplication1\Q13_Operations\bin\Debug\Q13_Operations.exe.config
+C:\Users\INSPIRON 15 3000\Documents\Visual Studio 2012\Projects\ConsoleApplication1\Q13_Operations\bin\Debug\Q13_Operations.exe
+C:\Users\INSPIRON 15 3000\Documents\Visual Studio 2012\Projects\ConsoleApplication1\Q13_Operations\bin\Debug\Q13_Operations.pdb
+C:\Users\INSPIRON 15 3000\Documents\Visual Studio 2012\Projects\ConsoleApplication1\Q13_Operations\obj\Debug\Q13_Operations.exe
+C:\Users\INSPIRON 15 3000\Documents\Visual Studio 2012\Projects\ConsoleApplication1\Q13_Operations\obj\Debug\Q13_Operations.pdb

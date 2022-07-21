@@ -1,0 +1,6 @@
+c:\users\inspiron 15 3000\documents\visual studio 2012\Projects\ConsoleApplication1\Q3Operation\bin\Debug\Q3Operation.exe.config
+C:\Users\INSPIRON 15 3000\Documents\Visual Studio 2012\Projects\ConsoleApplication1\Q3Operation\bin\Debug\Q3Operation.exe
+C:\Users\INSPIRON 15 3000\Documents\Visual Studio 2012\Projects\ConsoleApplication1\Q3Operation\bin\Debug\Q3Operation.pdb
+C:\Users\INSPIRON 15 3000\Documents\Visual Studio 2012\Projects\ConsoleApplication1\Q3Operation\obj\Debug\Q3Operation.csprojResolveAssemblyReference.cache
+C:\Users\INSPIRON 15 3000\Documents\Visual Studio 2012\Projects\ConsoleApplication1\Q3Operation\obj\Debug\Q3Operation.exe
+C:\Users\INSPIRON 15 3000\Documents\Visual Studio 2012\Projects\ConsoleApplication1\Q3Operation\obj\Debug\Q3Operation.pdb

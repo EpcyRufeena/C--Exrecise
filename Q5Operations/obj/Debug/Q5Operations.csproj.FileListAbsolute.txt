@@ -1,0 +1,6 @@
+C:\Users\INSPIRON 15 3000\Documents\Visual Studio 2012\Projects\ConsoleApplication1\Q5Operations\bin\Debug\Q5Operations.exe.config
+C:\Users\INSPIRON 15 3000\Documents\Visual Studio 2012\Projects\ConsoleApplication1\Q5Operations\bin\Debug\Q5Operations.exe
+C:\Users\INSPIRON 15 3000\Documents\Visual Studio 2012\Projects\ConsoleApplication1\Q5Operations\bin\Debug\Q5Operations.pdb
+C:\Users\INSPIRON 15 3000\Documents\Visual Studio 2012\Projects\ConsoleApplication1\Q5Operations\obj\Debug\Q5Operations.exe
+C:\Users\INSPIRON 15 3000\Documents\Visual Studio 2012\Projects\ConsoleApplication1\Q5Operations\obj\Debug\Q5Operations.pdb
+C:\Users\INSPIRON 15 3000\Documents\Visual Studio 2012\Projects\ConsoleApplication1\Q5Operations\obj\Debug\Q5Operations.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\inspiron 15 3000\documents\visual studio 2012\Projects\ConsoleApplication1\Q2 Operation\bin\Debug\Q2 Operation.exe.config
+c:\users\inspiron 15 3000\documents\visual studio 2012\Projects\ConsoleApplication1\Q2 Operation\bin\Debug\Q2 Operation.exe
+c:\users\inspiron 15 3000\documents\visual studio 2012\Projects\ConsoleApplication1\Q2 Operation\bin\Debug\Q2 Operation.pdb
+c:\users\inspiron 15 3000\documents\visual studio 2012\Projects\ConsoleApplication1\Q2 Operation\obj\Debug\Q2 Operation.csprojResolveAssemblyReference.cache
+c:\users\inspiron 15 3000\documents\visual studio 2012\Projects\ConsoleApplication1\Q2 Operation\obj\Debug\Q2 Operation.exe
+c:\users\inspiron 15 3000\documents\visual studio 2012\Projects\ConsoleApplication1\Q2 Operation\obj\Debug\Q2 Operation.pdb

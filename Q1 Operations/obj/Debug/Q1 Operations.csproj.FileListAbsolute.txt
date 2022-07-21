@@ -1,0 +1,5 @@
+c:\users\inspiron 15 3000\documents\visual studio 2012\Projects\ConsoleApplication1\Q1 Operations\bin\Debug\Q1 Operations.exe.config
+c:\users\inspiron 15 3000\documents\visual studio 2012\Projects\ConsoleApplication1\Q1 Operations\bin\Debug\Q1 Operations.exe
+c:\users\inspiron 15 3000\documents\visual studio 2012\Projects\ConsoleApplication1\Q1 Operations\bin\Debug\Q1 Operations.pdb
+c:\users\inspiron 15 3000\documents\visual studio 2012\Projects\ConsoleApplication1\Q1 Operations\obj\Debug\Q1 Operations.exe
+c:\users\inspiron 15 3000\documents\visual studio 2012\Projects\ConsoleApplication1\Q1 Operations\obj\Debug\Q1 Operations.pdb

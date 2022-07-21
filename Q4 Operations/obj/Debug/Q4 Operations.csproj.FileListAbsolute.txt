@@ -1,0 +1,6 @@
+C:\Users\INSPIRON 15 3000\Documents\Visual Studio 2012\Projects\ConsoleApplication1\Q4 Operations\bin\Debug\Q4 Operations.exe.config
+C:\Users\INSPIRON 15 3000\Documents\Visual Studio 2012\Projects\ConsoleApplication1\Q4 Operations\bin\Debug\Q4 Operations.exe
+C:\Users\INSPIRON 15 3000\Documents\Visual Studio 2012\Projects\ConsoleApplication1\Q4 Operations\bin\Debug\Q4 Operations.pdb
+C:\Users\INSPIRON 15 3000\Documents\Visual Studio 2012\Projects\ConsoleApplication1\Q4 Operations\obj\Debug\Q4 Operations.csprojResolveAssemblyReference.cache
+C:\Users\INSPIRON 15 3000\Documents\Visual Studio 2012\Projects\ConsoleApplication1\Q4 Operations\obj\Debug\Q4 Operations.exe
+C:\Users\INSPIRON 15 3000\Documents\Visual Studio 2012\Projects\ConsoleApplication1\Q4 Operations\obj\Debug\Q4 Operations.pdb

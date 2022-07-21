@@ -1,0 +1,5 @@
+C:\Users\INSPIRON 15 3000\Documents\Visual Studio 2012\Projects\ConsoleApplication1\Q16_Operations\bin\Debug\Q16_Operations.exe.config
+C:\Users\INSPIRON 15 3000\Documents\Visual Studio 2012\Projects\ConsoleApplication1\Q16_Operations\obj\Debug\Q16_Operations.exe
+C:\Users\INSPIRON 15 3000\Documents\Visual Studio 2012\Projects\ConsoleApplication1\Q16_Operations\obj\Debug\Q16_Operations.pdb
+C:\Users\INSPIRON 15 3000\Documents\Visual Studio 2012\Projects\ConsoleApplication1\Q16_Operations\bin\Debug\Q16_Operations.exe
+C:\Users\INSPIRON 15 3000\Documents\Visual Studio 2012\Projects\ConsoleApplication1\Q16_Operations\bin\Debug\Q16_Operations.pdb

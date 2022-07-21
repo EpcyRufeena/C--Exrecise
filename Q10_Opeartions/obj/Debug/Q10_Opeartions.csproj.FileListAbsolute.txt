@@ -1,0 +1,5 @@
+C:\Users\INSPIRON 15 3000\Documents\Visual Studio 2012\Projects\ConsoleApplication1\Q10_Opeartions\bin\Debug\Q10_Opeartions.exe.config
+C:\Users\INSPIRON 15 3000\Documents\Visual Studio 2012\Projects\ConsoleApplication1\Q10_Opeartions\bin\Debug\Q10_Opeartions.exe
+C:\Users\INSPIRON 15 3000\Documents\Visual Studio 2012\Projects\ConsoleApplication1\Q10_Opeartions\bin\Debug\Q10_Opeartions.pdb
+C:\Users\INSPIRON 15 3000\Documents\Visual Studio 2012\Projects\ConsoleApplication1\Q10_Opeartions\obj\Debug\Q10_Opeartions.exe
+C:\Users\INSPIRON 15 3000\Documents\Visual Studio 2012\Projects\ConsoleApplication1\Q10_Opeartions\obj\Debug\Q10_Opeartions.pdb

@@ -1,0 +1,6 @@
+C:\Users\INSPIRON 15 3000\Documents\Visual Studio 2012\Projects\ConsoleApplication1\Q11_Opearations\bin\Debug\Q11_Opearations.exe.config
+C:\Users\INSPIRON 15 3000\Documents\Visual Studio 2012\Projects\ConsoleApplication1\Q11_Opearations\bin\Debug\Q11_Opearations.exe
+C:\Users\INSPIRON 15 3000\Documents\Visual Studio 2012\Projects\ConsoleApplication1\Q11_Opearations\bin\Debug\Q11_Opearations.pdb
+C:\Users\INSPIRON 15 3000\Documents\Visual Studio 2012\Projects\ConsoleApplication1\Q11_Opearations\obj\Debug\Q11_Opearations.csprojResolveAssemblyReference.cache
+C:\Users\INSPIRON 15 3000\Documents\Visual Studio 2012\Projects\ConsoleApplication1\Q11_Opearations\obj\Debug\Q11_Opearations.exe
+C:\Users\INSPIRON 15 3000\Documents\Visual Studio 2012\Projects\ConsoleApplication1\Q11_Opearations\obj\Debug\Q11_Opearations.pdb
